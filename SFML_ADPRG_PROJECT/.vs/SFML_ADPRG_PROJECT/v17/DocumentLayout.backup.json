@@ -1,30 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AirplaneSupport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AirplaneSupport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AirplanePlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AirplanePlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AbstractGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\AbstractGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\GameObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\GameObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80A9A97F-40E7-4BB4-A89A-BA6BE58B08D7}|SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT.vcxproj|solutionrelative:SFML_ADPRG_PROJECT\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +78,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Main.cpp",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-09T09:06:42.627Z",
+              "DocumentIndex": 8,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Game.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T09:02:37.273Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TextureManager.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\TextureManager.cpp",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\TextureManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Game.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-16T10:30:59.456Z",
+              "WhenOpened": "2025-01-31T09:10:20.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirplaneSupport.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AirplaneSupport.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AirplaneSupport.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T11:45:59.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TextureManager.h",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\TextureManager.h",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\TextureManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AirplaneSupport.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AirplaneSupport.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplaneSupport.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AirplaneSupport.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-16T10:26:53.388Z",
+              "WhenOpened": "2025-01-31T11:46:52.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Entity.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Entity.cpp",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Entity.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Title": "AirplanePlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AirplanePlayer.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AirplanePlayer.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T13:47:35.428Z",
+              "WhenOpened": "2025-01-31T11:35:57.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Entity.h",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Entity.h",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Title": "AirplanePlayer.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AirplanePlayer.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AirplanePlayer.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AirplanePlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-12T13:45:16.844Z",
+              "WhenOpened": "2025-01-31T11:35:39.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h",
-              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Game.h",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Game.h",
-              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Title": "AbstractGameObject.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AbstractGameObject.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AbstractGameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-09T10:11:49.824Z",
+              "WhenOpened": "2025-01-31T10:11:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractGameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\AbstractGameObject.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\AbstractGameObject.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\AbstractGameObject.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T10:11:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextureManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\TextureManager.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\TextureManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T09:28:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameObjectManager.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\GameObjectManager.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\GameObjectManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:09:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameObjectManager.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\GameObjectManager.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\GameObjectManager.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\GameObjectManager.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAjwDoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T10:09:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BGObject.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\BGObject.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\BGObject.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T10:34:38.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BGObject.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\BGObject.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\BGObject.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\BGObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T10:34:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Main.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T08:57:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TextureManager.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\TextureManager.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\TextureManager.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\TextureManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T09:28:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Entity.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.h",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T09:18:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp",
+              "RelativeDocumentMoniker": "SFML_ADPRG_PROJECT\\Entity.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\GDENG01_GameJam_Fix\\SFML-SCRATCHPROJECT\\SFML_ADPRG_PROJECT\\SFML_ADPRG_PROJECT\\Entity.cpp",
+              "RelativeToolTip": "SFML_ADPRG_PROJECT\\Entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T09:18:42.82Z",
               "EditorCaption": ""
             }
           ]

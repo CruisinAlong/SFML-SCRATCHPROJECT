@@ -1,2 +1,12 @@
-﻿  TextureManager.cpp
-  SFML_ADPRG_PROJECT.vcxproj -> C:\Users\USER\source\repos\SFML_ADPRG_PROJECT\x64\Debug\SFML_ADPRG_PROJECT.exe
+﻿  AirplaneSupport.cpp
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,62): warning C4244:         with
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,62): warning C4244:         [
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,62): warning C4244:             T=unsigned int
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,62): warning C4244:         ]
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,43): warning C4244:         with
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,43): warning C4244:         [
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,43): warning C4244:             T=unsigned int
+C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\SFML_ADPRG_PROJECT\AirplaneSupport.cpp(23,43): warning C4244:         ]
+  SFML_ADPRG_PROJECT.vcxproj -> C:\Users\ASUS\Documents\GitHub\GDENG01_GameJam_Fix\SFML-SCRATCHPROJECT\SFML_ADPRG_PROJECT\x64\Debug\SFML_ADPRG_PROJECT.exe

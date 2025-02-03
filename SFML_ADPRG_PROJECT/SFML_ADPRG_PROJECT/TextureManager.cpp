@@ -2,41 +2,57 @@
 #include <iostream>
 #include "TextureManager.h"
 
-TextureManager* TextureManager::instance = NULL;
+TextureManager* TextureManager::sharedInstance = nullptr;
 
-TextureManager* TextureManager::getInstance() {
-	if (instance == NULL) {
-		instance = new TextureManager();
-	}
-	return instance;
+TextureManager::TextureManager()
+{
+    std::cout << "TextureManager constructor called" << std::endl;
 }
 
-void TextureManager::testFunction() {
-	std::cout << "Hi im singleton! ;)" << std::endl;
+TextureManager* TextureManager::getInstance()
+{
+    if (sharedInstance == nullptr) {
+        sharedInstance = new TextureManager();
+    }
+    return sharedInstance;
 }
 
-void TextureManager::loadAll() {
-	for (int i = 0; i < 8; i++) {
-		std::string str_i = std::to_string(i);
-		loadTexture("bed_" + str_i, "Media/Textures/bed000" + str_i + ".png");
-		loadTexture("bench_" + str_i, "Media/Textures/bench000" + str_i + ".png");
-		loadTexture("gift_" + str_i, "Media/Textures/boxGift_000" + str_i + ".png");
-		loadTexture("coin_" + str_i, "Media/Textures/coin000" + str_i + ".png");
-	}
+void TestFunction()
+{
+    std::cout << "Test function called" << std::endl;
 }
 
-void TextureManager::loadTexture(std::string key , std::string path) {
-	sf::Texture* texture = new sf::Texture();
-	texture->loadFromFile(path);
-	textureMap[key] = texture;
+void TextureManager::loadAll()
+{
+    loadTexture("desert_bg", "Media/Textures/Desert.png");
+    sf::Texture* bgTex;
+    bgTex = getTexture("desert_bg");
+    if (bgTex != nullptr) {
+        bgTex->setRepeated(true);
+    }
+    loadTexture("eagle", "Media/Textures/Eagle.png");
+    loadTexture("raptor", "Media/Textures/Raptor.png");
+    loadTexture("raptor", "Media/Textures/Raptor.png");
 }
 
-sf::Texture* TextureManager::getTexture(std::string key) {
-	if (textureMap[key] != nullptr) {
-		return textureMap[key];
-	}
-	else {
-		std::cout << "No texture found for " << key << std::endl;
-		return nullptr;
-	}
+void TextureManager::loadTexture(std::string key, std::string path)
+{
+    sf::Texture* texture = new sf::Texture();
+    if (!texture->loadFromFile(path)) {
+        std::cerr << "Failed to load texture: " << path << std::endl;
+        delete texture;
+        return;
+    }
+    textureMap[key] = texture;
+}
+
+sf::Texture* TextureManager::getTexture(std::string key)
+{
+    if (textureMap[key] != nullptr) {
+        return textureMap[key];
+    }
+    else {
+        std::cerr << "Texture not found: " << key << std::endl;
+        return nullptr;
+    }
 }

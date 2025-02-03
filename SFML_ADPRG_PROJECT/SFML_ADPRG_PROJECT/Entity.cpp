@@ -1,19 +1,22 @@
 #include "Entity.h"
 
-Entity::Entity() {
+Entity::Entity() {};
+
+void Entity::setTexture(sf::Texture texture)
+{
+	mTexture = texture;
+	mSprite.setTexture(mTexture);
 }
 
-void Entity::setTexture(sf::Texture texture) {
-    mTexture = texture;
-    mPlayer.setTexture(texture);
+sf::Sprite* Entity::getSprite()
+{
+	return &mSprite;
 }
 
-sf::Sprite* Entity::getSprite() {
-    return &mPlayer;
-}
-Entity* Entity::createEntity(sf::Texture* tex, float x, float y) {
+Entity* Entity::createEntity(sf::Texture* tex, float x, float y)
+{
 	Entity* entity = new Entity();
-	entity->setTexture(*tex);
-	entity->getSprite()->setPosition(x, y);
+	entity->mSprite.setTexture(*tex);
+	entity->mSprite.setPosition(x, y);
 	return entity;
 }
